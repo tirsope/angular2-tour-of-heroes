@@ -3,3 +3,6 @@ node_modules/
 .env
 .idea/
 typings/
+npm-debug.log
+app/*.js
+app/*.js.map
